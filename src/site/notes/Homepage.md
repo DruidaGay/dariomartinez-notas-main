@@ -39,7 +39,10 @@
 | [[Uni/Cartografía básica/Vértice geodésicos\|Vértice geodésicos]]                      | 29-09-25 16:13 | Uni/Cartografía básica |
 
 ## Geografía física🌍
-![[Untitled 1.base]]
+| File |
+| ---- |
+
+{ .block-language-dataview}
 ## Geografía humana👨👩
 ![[Untitled 2.base]]
 ## Introducción a la geografía regional🍁

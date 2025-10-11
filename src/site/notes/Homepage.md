@@ -39,13 +39,47 @@
 | [[Uni/Cartografía básica/Vértice geodésicos\|Vértice geodésicos]]                      | 29-09-25 16:13 | Uni/Cartografía básica |
 
 ## Geografía física🌍
-| File |
-| ---- |
 
-{ .block-language-dataview}
+| Nombre                                    | Creación       | Carpeta              |
+| ----------------------------------------- | -------------- | -------------------- |
+| [[Uni/Geografia fisica/1-10-25\|1-10-25]] | 01-10-25 18:24 | Uni/Geografía física |
+| [[Uni/Geografia fisica/7-10-25\|7-10-25]]                               | 07-10-25 17:18 | Uni/Geografía física |
+| [[Uni/Geografia fisica/30-9-25\|30-9-25]] | 30-09-25 17:14 | Uni/Geografía física |
+| [[Uni/Geografia fisica/Geografía física\|Geografía física]]                      | 23-09-25 17:13 | Uni/Geografía física |
+| [[Uni/Geografia fisica/Martinez_Iglesias_Samuel_Dario_Tarea3\|Martinez_Iglesias_Samuel_Dario_Tarea3]] | 07-10-25 18:24 | Uni/Geografía física |
+
 ## Geografía humana👨👩
-![[Untitled 2.base]]
+
+| Nombre                                         | Creación       | Carpeta              |
+| ---------------------------------------------- | -------------- | -------------------- |
+| [[Uni/Geografia humana/1-10-25\|1-10-25]]      | 01-10-25 15:04 | Uni/Geografía humana |
+| [[Uni/Geografia humana/6-10-25\|6-10-25]]      | 06-10-25 17:09 | Uni/Geografía humana |
+| [[Uni/Geografia humana/8-10-25\|8-10-25]]      | 08-10-25 15:46 | Uni/Geografía humana |
+| [[Uni/Geografia humana/9-29-25\|9-29-25]]                                    | 29-09-25 17:06 | Uni/Geografía humana |
+| [[Uni/Geografia humana/Cuestion\|Cuestion]]                                   | 22-09-25 18:02 | Uni/Geografía humana |
+| [[Uni/Geografia humana/Geografía humana\|Geografía humana]]                           | 24-09-25 15:04 | Uni/Geografía humana |
+| [[Uni/Geografia humana/Individuo e liberdade como motor de cambio\|Individuo e liberdade como motor de cambio]] | 22-09-25 17:35 | Uni/Geografía humana |
+| [[Uni/Geografia humana/La Geografia anarquista de Elisse Reclus.\|La Geografia anarquista de Elisse Reclus.]]  | 22-09-25 17:31 | Uni/Geografía humana |
+| [[Uni/Geografia humana/Trabajo mapeado de Afganistan\|Trabajo mapeado de Afganistan]]              | 06-10-25 10:14 | Uni/Geografía humana |
+
 ## Introducción a la geografía regional🍁
-![[Untitled 3.base]]
+
+| Nombre                                                        | Creación       | Carpeta                                  |
+| ------------------------------------------------------------- | -------------- | ---------------------------------------- |
+| [[Uni/Introduccion a la geografia regional/1-10-25\|1-10-25]] | 01-10-25 16:08 | Uni/Introducción a la geografía regional |
+| [[Uni/Introduccion a la geografia regional/2-10-25\|2-10-25]] | 02-10-25 13:17 | Uni/Introducción a la geografía regional |
+| [[Uni/Introduccion a la geografia regional/8-10-25\|8-10-25]] | 08-10-25 16:15 | Uni/Introducción a la geografía regional |
+| [[Uni/Introduccion a la geografia regional/Introducción a la geografía regional\|Introducción a la geografía regional]]                      | 24-09-25 16:06 | Uni/Introducción a la geografía regional |
+| [[Uni/Introduccion a la geografia regional/Introducción a la geografía regional 1\|Introducción a la geografía regional 1]]                    | 25-09-25 14:28 | Uni/Introducción a la geografía regional |
+
 ## Historia ambiental🌱
-![[Untitled 4.base]]
+
+| Nombre                                      | Creación       | Carpeta                |
+| ------------------------------------------- | -------------- | ---------------------- |
+| [[Uni/Historia ambiental/1-10-25\|1-10-25]] | 01-10-25 17:11 | Uni/Historia ambiental |
+| [[Uni/Historia ambiental/8-10-25\|8-10-25]] | 08-10-25 17:10 | Uni/Historia ambiental |
+| [[Uni/Historia ambiental/30-9-25\|30-9-25]] | 30-09-25 15:12 | Uni/Historia ambiental |
+| [[Uni/Historia ambiental/Historia ambiental Noelia\|Historia ambiental Noelia]]               | 24-09-25 17:05 | Uni/Historia ambiental |
+| [[Uni/Historia ambiental/Trabajo de CECCON\|Trabajo de CECCON]]                       | 07-10-25 15:36 | Uni/Historia ambiental |
+| [[Uni/Historia ambiental/Trabajo CECCON en conjunto\|Trabajo CECCON en conjunto]]              | 07-10-25 15:53 | Uni/Historia ambiental |
+

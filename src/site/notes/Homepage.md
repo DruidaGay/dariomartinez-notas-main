@@ -26,7 +26,18 @@
 - [Libro: Geografía: ¿Por que importa?](https://www.casadellibro.com/libro-geografia-por-que-importa/9788491817628/11197511).
 
 ## Cartografía básica 🗺️
-![[Untitled.base]]
+
+| Nombre                                      | Creación       | Carpeta                |
+| ------------------------------------------- | -------------- | ---------------------- |
+| [[Uni/Cartografía básica/2-10-25\|2-10-25]] | 02-10-25 15:21 | Uni/Cartografía básica |
+| [[Uni/Cartografía básica/6-10-25\|6-10-25]] | 06-10-25 15:14 | Uni/Cartografía básica |
+| [[Uni/Cartografía básica/9-10-25\|9-10-25]]                                 | 09-10-25 15:12 | Uni/Cartografía básica |
+| [[Uni/Cartografía básica/29-9-25\|29-9-25]]                                 | 29-09-25 15:11 | Uni/Cartografía básica |
+| [[Uni/Cartografía básica/Símbolos de mapas\|Símbolos de mapas]]                       | 29-09-25 15:34 | Uni/Cartografía básica |
+| [[Uni/Cartografía básica/Sistema de coordenadas\|Sistema de coordenadas]]                  | 29-09-25 15:15 | Uni/Cartografía básica |
+| [[Uni/Cartografía básica/Sistema UTM\|Sistema UTM]]                             | 29-09-25 15:19 | Uni/Cartografía básica |
+| [[Uni/Cartografía básica/Vértice geodésicos\|Vértice geodésicos]]                      | 29-09-25 16:13 | Uni/Cartografía básica |
+
 ## Geografía física🌍
 ![[Untitled 1.base]]
 ## Geografía humana👨👩

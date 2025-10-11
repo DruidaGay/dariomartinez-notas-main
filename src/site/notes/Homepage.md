@@ -86,8 +86,8 @@
  ## **Libros que he leído**
  
 
-| Nombre          | Autor                                                      | Imagen                                     |
-| --------------- | ---------------------------------------------------------- | ------------------------------------------ |
-| El extranjero   | [Albert Camus](https://es.wikipedia.org/wiki/Albert_Camus) | ![[Pasted image 20251011125532.png\| 100]] |
-| La metamorfosis | [Franz Kafka](https://es.wikipedia.org/wiki/Franz_Kafka)   | ![[Pasted image 20251011125701.png\| 100]] |
+| Nombre          | Autor                                                      | Imagen                               |
+| --------------- | ---------------------------------------------------------- | ------------------------------------ |
+| El extranjero   | [Albert Camus](https://es.wikipedia.org/wiki/Albert_Camus) | ![Pasted image 20251011125532.png](/img/user/assets/Pasted%20image%2020251011125532.png) |
+| La metamorfosis | [Franz Kafka](https://es.wikipedia.org/wiki/Franz_Kafka)   | ![Pasted image 20251011125701.png](/img/user/assets/Pasted%20image%2020251011125701.png) |
 

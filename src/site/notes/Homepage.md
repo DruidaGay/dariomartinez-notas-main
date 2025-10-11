@@ -83,11 +83,50 @@
 | [[Uni/Historia ambiental/Trabajo de CECCON\|Trabajo de CECCON]]                       | 07-10-25 15:36 | Uni/Historia ambiental |
 | [[Uni/Historia ambiental/Trabajo CECCON en conjunto\|Trabajo CECCON en conjunto]]              | 07-10-25 15:53 | Uni/Historia ambiental |
 # Personal
- ## **Libros que he leído**
+ ## **Libros**
  
 
 | Nombre          | Autor                                                      | Imagen                               |
 | --------------- | ---------------------------------------------------------- | ------------------------------------ |
 | El extranjero   | [Albert Camus](https://es.wikipedia.org/wiki/Albert_Camus) | ![Pasted image 20251011125532.png](/img/user/assets/Pasted%20image%2020251011125532.png) |
 | La metamorfosis | [Franz Kafka](https://es.wikipedia.org/wiki/Franz_Kafka)   | ![Pasted image 20251011125701.png](/img/user/assets/Pasted%20image%2020251011125701.png) |
+## **Películas y series**
 
+| Nombre                                        | Tipo     | Duración     | Link                                        |
+| --------------------------------------------- | -------- | ------------ | ------------------------------------------- |
+| The Intouchables                              | Película | 112 minutos  | https://www.imdb.com/title/tt1675434/       |
+| The Shawshank Redemption                      | Película | 142 minutos  | https://www.imdb.com/title/tt0111161/       |
+| Star Wars - Episode III - Revenge of the Sith | Película | 140 minutos  | https://www.imdb.com/title/tt0121766/       |
+| Rogue One - A Star Wars Story                 | Película | 133 minutos  | https://www.imdb.com/title/tt3748528/       |
+| Hacksaw Ridge                                 | Película | 139 minutos  | https://www.imdb.com/title/tt2119532/       |
+| Green Book                                    | Película | 130 minutos  | https://www.imdb.com/title/tt6966692/       |
+| Forrest Gump                                  | Película | 142 minutos  | https://www.imdb.com/title/tt0109830/       |
+| From Up on Poppy Hill                         | Película | 91 minutos   | https://www.imdb.com/title/tt1798188/       |
+| All Quiet on the Western Front                | Película | 148 minutos  | https://www.imdb.com/title/tt1016150/       |
+| Star Wars: The Clone Wars                     | Serie    | 7 temporadas | https://www.imdb.com/es-es/title/tt0458290/ |
+| No Game No Life: Zero                         | Película | 110 minutos  | https://www.imdb.com/title/tt5914996/       |
+# Anime
+
+| Nombre                    | Duración       | Link                                                                      |
+| ------------------------- | -------------- | ------------------------------------------------------------------------- |
+| Re:Zero                   | Temp 1- 25 eps | https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu |
+| Dandadan                  | Temp 1- 12 eps | https://myanimelist.net/anime/57334/Dandadan                              |
+| Hell´s Paradise           | Temp 1- 13 eps | https://myanimelist.net/anime/46569/Jigokuraku                            |
+| Kaiju No. 8               | Temp 1-12 eps  | https://myanimelist.net/anime/52588/Kaijuu_8-gou                          |
+| The Apothecary Diaries    | Temp 1-24 eps  | https://myanimelist.net/anime/54492/Kusuriya_no_Hitorigoto                |
+| Mashle: Magic and Muscles | Temp 1- 12 eps | https://myanimelist.net/anime/52211/Mashle                                |
+## Manga/manwha/weebtoon
+
+| Nombre | Capítulos |
+| ------ | --------- |
+|        |           |
+## Videojuegos que he terminado
+
+| Nombre | Plataforma | Horas |
+| ------ | ---------- | ----- |
+|        |            |       |
+## Que estoy haciendo actualmente
+
+| Nombre | Tipo |
+| ------ | ---- |
+|        |      |

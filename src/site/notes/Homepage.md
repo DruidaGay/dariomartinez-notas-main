@@ -82,4 +82,12 @@
 | [[Uni/Historia ambiental/Historia ambiental Noelia\|Historia ambiental Noelia]]               | 24-09-25 17:05 | Uni/Historia ambiental |
 | [[Uni/Historia ambiental/Trabajo de CECCON\|Trabajo de CECCON]]                       | 07-10-25 15:36 | Uni/Historia ambiental |
 | [[Uni/Historia ambiental/Trabajo CECCON en conjunto\|Trabajo CECCON en conjunto]]              | 07-10-25 15:53 | Uni/Historia ambiental |
+# Personal
+ ## **Libros que he leído**
+ 
+
+| Nombre          | Autor                                                      | Imagen                                     |
+| --------------- | ---------------------------------------------------------- | ------------------------------------------ |
+| El extranjero   | [Albert Camus](https://es.wikipedia.org/wiki/Albert_Camus) | ![[Pasted image 20251011125532.png\| 100]] |
+| La metamorfosis | [Franz Kafka](https://es.wikipedia.org/wiki/Franz_Kafka)   | ![[Pasted image 20251011125701.png\| 100]] |
 

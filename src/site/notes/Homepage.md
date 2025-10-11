@@ -8,9 +8,19 @@
 📌**Buenas a todos y a todas, esta es mi página donde publicaré todas las notas y trabajos que realizaré a lo largo del curso más un poco de mi vida personal**.
 
 **Índice**
-
-
-
+- [[#Documentación que podría interesar|Documentación que podría interesar]]
+- [[#Fuentes recomendadas a lo largo del curso|Fuentes recomendadas a lo largo del curso]]
+- [[#Cartografía básica 🗺️|Cartografía básica 🗺️]]
+- [[#Geografía física🌍|Geografía física🌍]]
+- [[#Geografía humana👨👩|Geografía humana👨👩]]
+- [[#Introducción a la geografía regional🍁|Introducción a la geografía regional🍁]]
+- [[#Historia ambiental🌱|Historia ambiental🌱]]
+- [[#Que estoy haciendo actualmente|Que estoy haciendo actualmente]]
+- [[#Libros|Libros]]
+- [[#Películas y series|Películas y series]]
+- [[#Anime|Anime]]
+- [[#Manga/manwha/weebtoon|Manga/manwha/weebtoon]]
+- [[#Videojuegos que he terminado|Videojuegos que he terminado]]
 # Universidad
 ## Documentación que podría interesar
 [Como citar en APA](https://normas-apa.org/citas/).
@@ -83,14 +93,21 @@
 | [[Uni/Historia ambiental/Trabajo de CECCON\|Trabajo de CECCON]]                       | 07-10-25 15:36 | Uni/Historia ambiental |
 | [[Uni/Historia ambiental/Trabajo CECCON en conjunto\|Trabajo CECCON en conjunto]]              | 07-10-25 15:53 | Uni/Historia ambiental |
 # Personal
- ## **Libros**
+ ## Que estoy haciendo actualmente
+ 
+
+| Nombre | Tipo |
+| ------ | ---- |
+|        |      |
+
+ ## Libros
  
 
 | Nombre          | Autor                                                      | Imagen                               |
 | --------------- | ---------------------------------------------------------- | ------------------------------------ |
 | El extranjero   | [Albert Camus](https://es.wikipedia.org/wiki/Albert_Camus) | ![Pasted image 20251011125532.png](/img/user/assets/Pasted%20image%2020251011125532.png) |
 | La metamorfosis | [Franz Kafka](https://es.wikipedia.org/wiki/Franz_Kafka)   | ![Pasted image 20251011125701.png](/img/user/assets/Pasted%20image%2020251011125701.png) |
-## **Películas y series**
+## Películas y series
 
 | Nombre                                        | Tipo     | Duración     | Link                                        |
 | --------------------------------------------- | -------- | ------------ | ------------------------------------------- |
@@ -105,7 +122,7 @@
 | All Quiet on the Western Front                | Película | 148 minutos  | https://www.imdb.com/title/tt1016150/       |
 | Star Wars: The Clone Wars                     | Serie    | 7 temporadas | https://www.imdb.com/es-es/title/tt0458290/ |
 | No Game No Life: Zero                         | Película | 110 minutos  | https://www.imdb.com/title/tt5914996/       |
-# Anime
+## Anime
 
 | Nombre                    | Duración       | Link                                                                      |
 | ------------------------- | -------------- | ------------------------------------------------------------------------- |
@@ -125,8 +142,3 @@
 | Nombre | Plataforma | Horas |
 | ------ | ---------- | ----- |
 |        |            |       |
-## Que estoy haciendo actualmente
-
-| Nombre | Tipo |
-| ------ | ---- |
-|        |      |

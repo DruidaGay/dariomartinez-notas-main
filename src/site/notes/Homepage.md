@@ -15,6 +15,13 @@
 - [[#Geografía humana👨👩|Geografía humana👨👩]]
 - [[#Introducción a la geografía regional🍁|Introducción a la geografía regional🍁]]
 - [[#Historia ambiental🌱|Historia ambiental🌱]]
+- [[#Documentación que podría interesar|Documentación que podría interesar]]
+- [[#Fuentes recomendadas a lo largo del curso|Fuentes recomendadas a lo largo del curso]]
+	- [[#Fuentes recomendadas a lo largo del curso#Cartografía básica 🗺️|Cartografía básica 🗺️]]
+	- [[#Fuentes recomendadas a lo largo del curso#Geografía humana👨👩|Geografía humana👨👩]]
+	- [[#Fuentes recomendadas a lo largo del curso#Introducción a la geografía regional🍁|Introducción a la geografía regional🍁]]
+	- [[#Fuentes recomendadas a lo largo del curso#Historia ambiental🌱|Historia ambiental🌱]]
+
 ## Documentación que podría interesar
 [Como citar en APA](https://normas-apa.org/citas/).
 [Como citar en APA, link alternativo](https://www.bibguru.com/es/c/generador-citas-apa/).

@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/01-uni/cartografia-basica/mareografos-rednap-y-datum/","tags":["insti"]}
+---
+
+# Red de mareógrafos
+Los gestiona el IGN (Instituto geográfico nacional).
+- Se escogió el Mediterráneo por su casi inexistente oscilación marítima.
+- Esto con el objetivo de medir cosas desde el nivel del mar.
+Luego esto se  extendió a la Red de Nivelación de Alta Precisión.
+# REDNAP
+Red de Nivelación de Alta precisión
+- Se estableció entre 1999 y 2007 pero se formalizó en 2008.
+- Líneas que pasan por carreteras, etc.  Terminan en la red de mareógrafos.
+# Datum europeo
+==EVRS==.
+# Problema!
+Aumento considerable del nivel del mar.
+Lo que hará que algunas escalas tengan que ser reconfiguradas.

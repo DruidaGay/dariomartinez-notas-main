@@ -7,7 +7,7 @@
 
 📌**Buenas a todos y a todas, esta es mi página donde publicaré todas las notas y trabajos que realizaré a lo largo del curso**.
 
-**Índice**
+# **Índice**
 - [[#Documentación que podría interesar|Documentación que podría interesar]]
 - [[#Fuentes recomendadas a lo largo del curso|Fuentes recomendadas a lo largo del curso]]
 - [[#Cartografía básica 🗺️|Cartografía básica 🗺️]]
@@ -15,7 +15,6 @@
 - [[#Geografía humana👨👩|Geografía humana👨👩]]
 - [[#Introducción a la geografía regional🍁|Introducción a la geografía regional🍁]]
 - [[#Historia ambiental🌱|Historia ambiental🌱]]
-# Universidad
 ## Documentación que podría interesar
 [Como citar en APA](https://normas-apa.org/citas/).
 [Como citar en APA, link alternativo](https://www.bibguru.com/es/c/generador-citas-apa/).
@@ -28,64 +27,21 @@
 - [Libro: El origen del capitalismo: Una mirada de largo plazo](https://www.casadellibro.com/libro-el-origen-del-capitalismo-una-mirada-de-largo-plazo/9788432320095/12281071).
 **Introducción a la geografía regional**
 - [Libro: Geografía: ¿Por que importa?](https://www.casadellibro.com/libro-geografia-por-que-importa/9788491817628/11197511).
+### Cartografía básica 🗺️
 
-## Cartografía básica 🗺️
+| Título                                   | Día      |
+| ---------------------------------------- | -------- |
+| [[01-Uni/Cartografía básica/Sistema de coordenadas\|Sistema de coordenadas]]               | X        |
+| [[01-Uni/Cartografía básica/Mareógrafos, Rednap y Datum\|Mareógrafos, Rednap y Datum]]          | 9-10-25  |
+| [[01-Uni/Cartografía básica/Curvas de nivel y cotas topográficas\|Curvas de nivel y cotas topográficas]] | 27-10-25 |
+| [[01-Uni/Cartografía básica/Pendientes\|Pendientes]]                           | 29-10-25 |
+| [[01-Uni/Cartografía básica/Orientaciones\|Orientaciones]]                        | 13-11-25 |
 
-| Nombre                                      | Creación       | Carpeta                |
-| ------------------------------------------- | -------------- | ---------------------- |
-| [[01-Uni/Cartografía básica/2-10-25\|2-10-25]] | 02-10-25 15:21 | Uni/Cartografía básica |
-| [[01-Uni/Cartografía básica/6-10-25\|6-10-25]] | 06-10-25 15:14 | Uni/Cartografía básica |
-| [[01-Uni/Cartografía básica/9-10-25\|9-10-25]]                                 | 09-10-25 15:12 | Uni/Cartografía básica |
-| [[01-Uni/Cartografía básica/29-9-25\|29-9-25]]                                 | 29-09-25 15:11 | Uni/Cartografía básica |
-| [[01-Uni/Cartografía básica/Símbolos de mapas\|Símbolos de mapas]]                       | 29-09-25 15:34 | Uni/Cartografía básica |
-| [[01-Uni/Cartografía básica/Sistema de coordenadas\|Sistema de coordenadas]]                  | 29-09-25 15:15 | Uni/Cartografía básica |
-| [[01-Uni/Cartografía básica/Sistema UTM\|Sistema UTM]]                             | 29-09-25 15:19 | Uni/Cartografía básica |
-| [[01-Uni/Cartografía básica/Vértice geodésicos\|Vértice geodésicos]]                      | 29-09-25 16:13 | Uni/Cartografía básica |
+### Geografía humana👨👩
 
-## Geografía física🌍
+### Introducción a la geografía regional🍁
 
-| Nombre                                    | Creación       | Carpeta              |
-| ----------------------------------------- | -------------- | -------------------- |
-| [[01-Uni/Geografia fisica/1-10-25\|1-10-25]] | 01-10-25 18:24 | Uni/Geografía física |
-| [[01-Uni/Geografia fisica/7-10-25\|7-10-25]]                               | 07-10-25 17:18 | Uni/Geografía física |
-| [[01-Uni/Geografia fisica/30-9-25\|30-9-25]] | 30-09-25 17:14 | Uni/Geografía física |
-| [[01-Uni/Geografia fisica/Geografía física\|Geografía física]]                      | 23-09-25 17:13 | Uni/Geografía física |
-| [[01-Uni/Geografia fisica/Martinez_Iglesias_Samuel_Dario_Tarea3\|Martinez_Iglesias_Samuel_Dario_Tarea3]] | 07-10-25 18:24 | Uni/Geografía física |
-
-## Geografía humana👨👩
-
-| Nombre                                         | Creación       | Carpeta              |
-| ---------------------------------------------- | -------------- | -------------------- |
-| [[01-Uni/Geografia humana/1-10-25\|1-10-25]]      | 01-10-25 15:04 | Uni/Geografía humana |
-| [[01-Uni/Geografia humana/6-10-25\|6-10-25]]      | 06-10-25 17:09 | Uni/Geografía humana |
-| [[01-Uni/Geografia humana/8-10-25\|8-10-25]]      | 08-10-25 15:46 | Uni/Geografía humana |
-| [[01-Uni/Geografia humana/9-29-25\|9-29-25]]                                    | 29-09-25 17:06 | Uni/Geografía humana |
-| [[01-Uni/Geografia humana/Cuestion\|Cuestion]]                                   | 22-09-25 18:02 | Uni/Geografía humana |
-| [[01-Uni/Geografia humana/Geografía humana\|Geografía humana]]                           | 24-09-25 15:04 | Uni/Geografía humana |
-| [[01-Uni/Geografia humana/Individuo e liberdade como motor de cambio\|Individuo e liberdade como motor de cambio]] | 22-09-25 17:35 | Uni/Geografía humana |
-| [[01-Uni/Geografia humana/La Geografia anarquista de Elisse Reclus.\|La Geografia anarquista de Elisse Reclus.]]  | 22-09-25 17:31 | Uni/Geografía humana |
-| [[01-Uni/Geografia humana/Trabajo mapeado de Afganistan\|Trabajo mapeado de Afganistan]]              | 06-10-25 10:14 | Uni/Geografía humana |
-
-## Introducción a la geografía regional🍁
-
-| Nombre                                                        | Creación       | Carpeta                                  |
-| ------------------------------------------------------------- | -------------- | ---------------------------------------- |
-| [[01-Uni/Introduccion a la geografia regional/Tema 3. Las Nuevas (Nuevas) Geografías Regionales. El concepto de región desde los años 1970\|1-10-25]] | 01-10-25 16:08 | Uni/Introducción a la geografía regional |
-| [[01-Uni/Introduccion a la geografia regional/2-10-25\|2-10-25]] | 02-10-25 13:17 | Uni/Introducción a la geografía regional |
-| [[01-Uni/Introduccion a la geografia regional/8-10-25\|8-10-25]] | 08-10-25 16:15 | Uni/Introducción a la geografía regional |
-| [[01-Uni/Introduccion a la geografia regional/Introducción a la geografía regional\|Introducción a la geografía regional]]                      | 24-09-25 16:06 | Uni/Introducción a la geografía regional |
-| [[01-Uni/Introduccion a la geografia regional/Introducción a la geografía regional 1\|Introducción a la geografía regional 1]]                    | 25-09-25 14:28 | Uni/Introducción a la geografía regional |
-
-## Historia ambiental🌱
-
-| Nombre                                      | Creación       | Carpeta                |
-| ------------------------------------------- | -------------- | ---------------------- |
-| [[01-Uni/Historia ambiental/1-10-25\|1-10-25]] | 01-10-25 17:11 | Uni/Historia ambiental |
-| [[01-Uni/Historia ambiental/8-10-25\|8-10-25]] | 08-10-25 17:10 | Uni/Historia ambiental |
-| [[01-Uni/Historia ambiental/30-9-25\|30-9-25]] | 30-09-25 15:12 | Uni/Historia ambiental |
-| [[01-Uni/Historia ambiental/Historia ambiental Noelia\|Historia ambiental Noelia]]               | 24-09-25 17:05 | Uni/Historia ambiental |
-| [[01-Uni/Historia ambiental/Trabajo de CECCON\|Trabajo de CECCON]]                       | 07-10-25 15:36 | Uni/Historia ambiental |
-| [[01-Uni/Historia ambiental/Trabajo CECCON en conjunto\|Trabajo CECCON en conjunto]]              | 07-10-25 15:53 | Uni/Historia ambiental |
+### Historia ambiental🌱
 
 
  

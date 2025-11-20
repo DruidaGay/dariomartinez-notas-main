@@ -8,7 +8,7 @@
 📌**Buenas a todos y a todas, esta es mi página donde publicaré todas las notas y trabajos que realizaré a lo largo del curso**.
 
 # **Índice**
-- [[#Documentación que podría interesar|Documentación que podría interesar]]
+- [[#Documentación que podría interesar]]
 - [[#Fuentes recomendadas a lo largo del curso|Fuentes recomendadas a lo largo del curso]]
 - [[#Cartografía básica 🗺️|Cartografía básica 🗺️]]
 - [[#Geografía física🌍|Geografía física🌍]]

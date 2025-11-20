@@ -2,26 +2,8 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
-
-![Pasted image 20251010113402.jpg](/img/user/assets/Pasted%20image%2020251010113402.jpg)
-
+![Pasted image 20251120165157.png](/img/user/assets/Pasted%20image%2020251120165157.png)
 📌**Buenas a todos y a todas, esta es mi página donde publicaré todas las notas y trabajos que realizaré a lo largo del curso**.
-
-# **Índice**
-- [[#Documentación que podría interesar]]
-- [[#Fuentes recomendadas a lo largo del curso|Fuentes recomendadas a lo largo del curso]]
-- [[#Cartografía básica 🗺️|Cartografía básica 🗺️]]
-- [[#Geografía física🌍|Geografía física🌍]]
-- [[#Geografía humana👨👩|Geografía humana👨👩]]
-- [[#Introducción a la geografía regional🍁|Introducción a la geografía regional🍁]]
-- [[#Historia ambiental🌱|Historia ambiental🌱]]
-- [[#Documentación que podría interesar|Documentación que podría interesar]]
-- [[#Fuentes recomendadas a lo largo del curso|Fuentes recomendadas a lo largo del curso]]
-	- [[#Fuentes recomendadas a lo largo del curso#Cartografía básica 🗺️|Cartografía básica 🗺️]]
-	- [[#Fuentes recomendadas a lo largo del curso#Geografía humana👨👩|Geografía humana👨👩]]
-	- [[#Fuentes recomendadas a lo largo del curso#Introducción a la geografía regional🍁|Introducción a la geografía regional🍁]]
-	- [[#Fuentes recomendadas a lo largo del curso#Historia ambiental🌱|Historia ambiental🌱]]
-
 ## Documentación que podría interesar
 [Como citar en APA](https://normas-apa.org/citas/).
 [Como citar en APA, link alternativo](https://www.bibguru.com/es/c/generador-citas-apa/).
